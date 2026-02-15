@@ -34,7 +34,7 @@
 
 I build automation-first solutions using **Python + SQL**, and develop practical web applications with **TypeScript and Node.js**.
 
-I enjoy transforming manual workflows into reliable systems, dashboards, and scalable tools.
+I enjoy transforming manual and boring workflows into reliable systems, dashboards, and scalable tools.
 
 ---
 
